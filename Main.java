@@ -6,6 +6,6 @@ class Main {
 
         SumaDosNumeros obj = new SumaDosNumeros();
         
-        System.out.println(obj.suma(a,b));
+        System.out.println(obj.suma(a,b)); //Imprimir Suma 
     }
 }
